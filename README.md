@@ -20,3 +20,9 @@ In future versions, the system will include advanced features to track the most 
 ## Demo
 
 You can view a demo or dummy implementation of the project [here](https://github.com/Dark-Shaun/Dark-Shaun-Bright_Smile_Dental_Systems). 
+
+## Maintained by Renuka Pharma
+
+This project is an internal initiative, maintained by the data analytics team at Renuka Pharma. Continuous updates and improvements will be made based on user feedback and evolving business needs.
+
+For more information about this project or to request access to the dashboards, please contact the analytics team at Renuka Pharma.
