@@ -23,6 +23,6 @@ You can view a demo or dummy implementation of the project [here](https://github
 
 ## Maintained by Renuka Pharma
 
-This project is an internal initiative, maintained by the data analytics team at Renuka Pharma. Continuous updates and improvements will be made based on user feedback and evolving business needs.
+This project is an internal initiative, maintained by the team at Renuka Pharma. Continuous updates and improvements will be made based on user feedback and evolving business needs.
 
 For more information about this project or to request access to the dashboards, please contact the analytics team at Renuka Pharma.
